@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/1b497b6c-31f0-4079-b90d-5412a2fffa15/resourceGroups/Sankalp/providers/Microsoft.Web/sites/webapp-hadiya",
+    "appService.deploySubpath": "."
+}
